@@ -1,0 +1,24 @@
+{
+  "name": "star-info",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chanteP/star-info.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chanteP/star-info/issues"
+  },
+  "homepage": "https://github.com/chanteP/star-info#readme",
+  "dependencies": {
+    "fs-extra": "^7.0.1",
+    "xlsx": "^0.14.2"
+  }
+}
